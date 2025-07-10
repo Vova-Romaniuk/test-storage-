@@ -24,6 +24,13 @@
     "route": "warden-testnet",
     "type": "testnet",
     "logo": "gfgfgf",
-    "categories": []
+    "categories": [
+      {
+        "id": "category-1752138189798",
+        "title": "New Category",
+        "emoji": "📁",
+        "items": []
+      }
+    ]
   }
 ]
