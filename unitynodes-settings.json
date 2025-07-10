@@ -16,5 +16,14 @@
     "type": "testnet",
     "logo": "0g-testnet",
     "categories": []
+  },
+  {
+    "id": "e245d416-2e69-4210-a1f0-b42a08ebb855",
+    "siteTitle": "warden",
+    "siteDescription": "",
+    "route": "warden-testnet",
+    "type": "testnet",
+    "logo": "gfgfgf",
+    "categories": []
   }
 ]
