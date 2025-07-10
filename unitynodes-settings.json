@@ -15,20 +15,7 @@
     "route": "0g-testnet",
     "type": "testnet",
     "logo": "0g-testnet",
-    "categories": [
-      {
-        "id": "category-1752145417091",
-        "title": "New Category",
-        "emoji": "📁",
-        "items": []
-      },
-      {
-        "id": "category-1752145967336",
-        "title": "New Category",
-        "emoji": "📁",
-        "items": []
-      }
-    ]
+    "categories": []
   },
   {
     "id": "e245d416-2e69-4210-a1f0-b42a08ebb855",
