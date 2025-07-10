@@ -6,6 +6,13 @@
     "route": "gfgf",
     "type": "testnet",
     "logo": "gf",
-    "categories": []
+    "categories": [
+      {
+        "id": "category-1752133697692",
+        "title": "New Category",
+        "emoji": "📁",
+        "items": []
+      }
+    ]
   }
 ]
