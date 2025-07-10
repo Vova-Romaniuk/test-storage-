@@ -7,5 +7,14 @@
     "type": "testnet",
     "logo": "gf",
     "categories": []
+  },
+  {
+    "id": "ce576e5a-60c2-4233-b3c9-1c5c77ca2a82",
+    "siteTitle": "0g",
+    "siteDescription": "gfgf",
+    "route": "0g-testnet",
+    "type": "testnet",
+    "logo": "0g-testnet",
+    "categories": []
   }
 ]
