@@ -14,9 +14,11 @@
         "items": [
           {
             "id": "section-1752504927330",
-            "title": "New Section"
+            "title": "New Section",
+            "content": "\n\nWrite section content…<div data-component=\"rpc-info\"></div>\n"
           }
-        ]
+        ],
+        "content": "# New Category\n\nWrite your content here…"
       }
     ]
   }
