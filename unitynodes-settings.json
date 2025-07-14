@@ -17,21 +17,6 @@
     "logo": "0g-testnet",
     "categories": [
       {
-        "id": "category-1752148368504",
-        "title": "New Category",
-        "emoji": "📁",
-        "items": [
-          {
-            "id": "section-1752150041767",
-            "title": "New Section"
-          },
-          {
-            "id": "section-1752497804031",
-            "title": "New Section"
-          }
-        ]
-      },
-      {
         "id": "category-1752150187992",
         "title": "New Category",
         "emoji": "📁",
