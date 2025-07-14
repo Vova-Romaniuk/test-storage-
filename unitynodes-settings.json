@@ -6,13 +6,6 @@
     "route": "0g-testnet",
     "type": "testnet",
     "logo": "gfgfg",
-    "categories": [
-      {
-        "id": "category-1752503740781",
-        "title": "New Category",
-        "emoji": "📁",
-        "items": []
-      }
-    ]
+    "categories": []
   }
 ]
