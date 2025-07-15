@@ -11,7 +11,12 @@
         "id": "category-1752593899793",
         "title": "New Category",
         "emoji": "📁",
-        "items": []
+        "items": [
+          {
+            "id": "section-1752595873115",
+            "title": "New Section"
+          }
+        ]
       },
       {
         "id": "category-1752595044135",
