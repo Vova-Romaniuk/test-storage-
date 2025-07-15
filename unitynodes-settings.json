@@ -14,13 +14,16 @@
         "items": [
           {
             "id": "section-1752595873115",
-            "title": "New Section"
+            "title": "New Section",
+            "content": ""
           },
           {
             "id": "section-1752595948517",
-            "title": "New Section"
+            "title": "New Section",
+            "content": ""
           }
-        ]
+        ],
+        "content": "<div data-component=\"node-status\" data-name=\"0G\" data-chain-id=\"0gchain-16601\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
       },
       {
         "id": "category-1752595044135",
