@@ -15,10 +15,16 @@
           {
             "id": "section-1752504927330",
             "title": "New Section",
-            "content": "<div data-component=\"node-status\" data-name=\"Atomone\" data-chain-id=\"atomone-1\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n# New Section\n\nWrite section content…"
+            "content": "\n<div data-component=\"node-status\" data-name=\"Atomone\" data-chain-id=\"atomone-1\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n# New Section\n\nWrite section content…\n<div data-component=\"rpc-info\"></div>"
           }
         ],
         "content": "# New Category\n\nWrite your content here…"
+      },
+      {
+        "id": "category-1752577551555",
+        "title": "New Category",
+        "emoji": "📁",
+        "items": []
       }
     ]
   }
