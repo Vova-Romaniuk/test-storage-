@@ -20,7 +20,7 @@
           {
             "id": "section-1752595948517",
             "title": "New Section",
-            "content": "\n## \n<div data-component=\"peer\" data-value=\"M2ExMWQwYjQ4ZDdjNDc3ZDEzM2Y5NTllZmIzM2Q0N2Q4MWFlYWU2ZEBvZy10ZXN0bmV0LXBlZXIuaXRyb2NrZXQubmV0OjQ3NjU2\"></div>\n"
+            "content": "\n# Peers, Seeds, Live Peers, Addrbook\n## peers:\n<div data-component=\"peer\" data-value=\"M2ExMWQwYjQ4ZDdjNDc3ZDEzM2Y5NTllZmIzM2Q0N2Q4MWFlYWU2ZEBvZy10ZXN0bmV0LXBlZXIuaXRyb2NrZXQubmV0OjQ3NjU2\"></div>\n"
           }
         ],
         "content": "<div data-component=\"node-status\" data-name=\"0G\" data-chain-id=\"0gchain-16601\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
