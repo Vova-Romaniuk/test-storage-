@@ -14,8 +14,8 @@
         "items": [
           {
             "id": "section-1752595873115",
-            "title": "RPC, API, gRPC",
-            "content": ""
+            "title": "New Section",
+            "content": "\n# RPC, API, gRPC\n\n<div data-component=\"rpc-info\"></div>\n"
           },
           {
             "id": "section-1752595948517",
