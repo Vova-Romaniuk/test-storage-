@@ -29,7 +29,7 @@
           },
           {
             "id": "section-1752671827232",
-            "title": "New Section"
+            "title": "test"
           }
         ],
         "content": "\n<div data-component=\"node-status\" data-name=\"0G\" data-chain-id=\"0gchain-16601\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
