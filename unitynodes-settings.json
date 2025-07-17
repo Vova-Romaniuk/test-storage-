@@ -15,7 +15,7 @@
           {
             "id": "section-1752595873115",
             "title": "RPC, API, gRPC",
-            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-component=\"rpc-info\"></div>\n\n\n\n"
+            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-component=\"rpc-info\"></div>\n\n<div data-component=\"clipboards\" ></div>\n\n\n"
           },
           {
             "id": "section-1752595948517",
@@ -34,18 +34,21 @@
           },
           {
             "id": "section-1752754267438",
-            "title": "test2"
+            "title": "test2",
+            "content": ""
           },
           {
             "id": "section-1752759133753",
-            "title": "New Section"
+            "title": "New Section",
+            "content": ""
           },
           {
             "id": "section-1752759138726",
-            "title": "New Section"
+            "title": "New Section",
+            "content": ""
           }
         ],
-        "content": "\n<div data-component=\"node-status\" data-name=\"0G\" data-chain-id=\"0gchain-16601\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
+        "content": "\n\n<div data-component=\"node-status\" data-name=\"0G\" data-chain-id=\"0gchain-16601\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
       },
       {
         "id": "category-1752595044135",
