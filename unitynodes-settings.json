@@ -54,6 +54,10 @@
             "id": "section-1752739951580",
             "title": "New Section",
             "content": ""
+          },
+          {
+            "id": "section-1752742144749",
+            "title": "New Section"
           }
         ],
         "content": "<div data-component=\"rpc-info\"></div>\n<div data-component=\"node-status\" data-name=\"Atomone\" data-chain-id=\"atomone-1\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
