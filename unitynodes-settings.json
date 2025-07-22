@@ -30,7 +30,7 @@
           {
             "id": "section-1752671827232",
             "title": "test",
-            "content": ""
+            "content": "<div data-component=\"node-status\" data-name=\"Atomone\" data-chain-id=\"atomone-1\" data-rpc-url=\"https://og-testnet-rpc.itrocket.net/status\" data-explorer=\"https://explorer.atomone.net\"></div>\n"
           },
           {
             "id": "section-1752754267438",
@@ -99,16 +99,15 @@
         "id": "category-1753183811296",
         "title": "New Category",
         "emoji": "📁",
-        "items": []
+        "items": [
+          {
+            "id": "section-1753184407031",
+            "title": "New Section"
+          }
+        ]
       },
       {
         "id": "category-1753183815521",
-        "title": "New Category",
-        "emoji": "📁",
-        "items": []
-      },
-      {
-        "id": "category-1753184014762",
         "title": "New Category",
         "emoji": "📁",
         "items": []
