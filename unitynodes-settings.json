@@ -1,7 +1,7 @@
 [
   {
     "id": "85050bb9-4aaa-4cfb-8732-ee766c0a8fbb",
-    "siteTitle": "0g-testnet",
+    "siteTitle": "0G",
     "siteDescription": "gfgf",
     "route": "0g-testnet",
     "type": "testnet",
@@ -13,9 +13,13 @@
         "emoji": "📁",
         "items": [
           {
-            "id": "section-1752595873115",
+            "id": "rpc-info",
             "title": "RPC, API, gRPC",
-            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-component=\"rpc-info\"></div>\n\n<div data-component=\"clipboards\" ></div>\n\n\n"
+            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-items=\"[
+              {'label':'RPC','url':'https://og-testnet-rpc.itrocket.net'},
+              {'label':'API','url':'https://og-testnet-api.itrocket.net'},
+              {'label':'JSON-RPC','url':'https://og-testnet-evm.itrocket.net:443'}
+            ]\" data-component=\"rpc-info\"></div>\n\n<div data-items=\"[{'label':'gRPC', 'value':'', 'isEncoded':'false'},]\" data-component=\"clipboards\" ></div>\n\n\n"
           },
           {
             "id": "section-1752595948517",
