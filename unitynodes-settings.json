@@ -15,7 +15,7 @@
           {
             "id": "rpc-info",
             "title": "RPC, API, gRPC",
-            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-items='[{\"label\":\"RPC\",\"url\":\"https://og-testnet-rpc.itrocket.net\"},{\"label\":\"API\",\"url\":\"https://og-testnet-api.itrocket.net\"},{\"label\":\"JSON-RPC\",\"url\":\"https://og-testnet-evm.itrocket.net:443\"}]' data-component=\"rpc-info\"></div>\n\n<div data-items='[{\"label\":\"gRPC\",\"value\":\"og-testnet-grpc.itrocket.net:443\",\"isEncoded\":\"false\"}]' data-component=\"clipboards\"></div>\n\n"
+            "content": "\n# RPC, API, gRPC\n\n## Cosmos:\n<div data-items='[{\"label\":\"RPC\",\"url\":\"https://og-testnet-rpc.itrocket.net\"},{\"label\":\"API\",\"url\":\"https://og-testnet-api.itrocket.net\"},{\"label\":\"JSON-RPC\",\"url\":\"https://og-testnet-evm.itrocket.net:443\"}]' data-component=\"rpc-info\"></div>\n\n<div data-items='[{\"label\":\"gRPC\",\"value\":\"og-testnet-grpc.itrocket.net:443\",\"isEncoded\":false}]' data-component=\"clipboards\"></div>\n\n"
           },
           {
             "id": "section-1752595948517",
